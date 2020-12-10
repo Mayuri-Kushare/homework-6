@@ -1,4 +1,5 @@
 """ Battery single particle model."""
+import scipy as scipy
 from scipy.integrate import solve_ivp
 import numpy as np
 from battery_spm_function import residual

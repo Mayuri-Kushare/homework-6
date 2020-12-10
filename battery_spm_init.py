@@ -98,7 +98,7 @@ class pars:
     R_el_ca = 1/sigma_el_LCO/eps_LCO
 
     # Emmissivity:
-    emmissivity = emmissivity
+    emissivity = emissivity
     # Ambient temperature:
     T_amb = T_amb
     # Convection coefficient:

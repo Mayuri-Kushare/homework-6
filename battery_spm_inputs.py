@@ -81,7 +81,7 @@ sigma_el_LCO = 2e6 #S/m
 
 " Heat Transfer Parameters "
 # Radiation heat transfer emissivity:
-emmissivity = 0.75
+emissivity = 0.75
 # Battery external surface area per unit volume:
 A_ext = 1000
 
